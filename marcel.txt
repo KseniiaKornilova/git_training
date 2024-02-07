@@ -1,3 +1,2 @@
 cats file
 another line
-marcel is cute
