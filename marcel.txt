@@ -5,3 +5,8 @@ love
 string from main branch
 main branch
 conflictful string
+<<<<<<< Updated upstream
+=======
+conflict
+for interactive rebase
+>>>>>>> Stashed changes
