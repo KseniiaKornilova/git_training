@@ -8,4 +8,4 @@ conflictful string
 conflict
 for interactive rebase
 conflict
-
+string for merge
