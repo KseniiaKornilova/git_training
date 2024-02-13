@@ -5,3 +5,7 @@ love
 string from main branch
 main branch
 conflictful string
+conflict
+for interactive rebase
+conflict
+string for merge
