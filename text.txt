@@ -1,4 +1,4 @@
-!!another text
+!!!!**!!another text
 another
 got merge
 !!!!
