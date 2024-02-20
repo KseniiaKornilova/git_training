@@ -10,3 +10,6 @@ for interactive rebase
 conflict
 string for merge
 bul
+one
+two
+
