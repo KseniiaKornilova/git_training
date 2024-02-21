@@ -10,5 +10,6 @@ for interactive rebase
 conflict
 string for merge
 bul
-
 soup
+one
+two
