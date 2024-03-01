@@ -1,4 +1,4 @@
-cats file
+&&!!!!!cats file
 another line
 my cute boy
 love
@@ -9,3 +9,7 @@ conflict
 for interactive rebase
 conflict
 string for merge
+bul
+±±±±soup
+one
+two
